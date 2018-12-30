@@ -63,5 +63,8 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+<<<<<<< HEAD
 
 .directory
+=======
+>>>>>>> d3e3d01ae87768849c507887879550a1b6147538
